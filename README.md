@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sentiment Analysis and Review Classification Project
 
 ![Preview of the dashboard](img/sar_main.gif)
@@ -207,3 +208,6 @@ streamlit run app/app.py
 
 ![Tab3 of the dashboard](img/sar_tab3.gif)
 
+=======
+# RICE
+>>>>>>> f461c6e457144fab88cbe3de1fafadf33f9925d7
